@@ -137,7 +137,7 @@ export default function SplashScreen({ onFinish }: SplashScreenProps) {
               }
             ]}
           >
-            Orbital Cleanup & Environmental Hub
+            Orbital Circular Economy Hub
           </Animated.Text>
           
           <Animated.View 

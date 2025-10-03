@@ -134,7 +134,7 @@ export default function SplashScreen({ onFinish }: SplashScreenProps) {
               { opacity: fadeAnim }
             ]}
           >
-            Orbital Cleanup & Environmental Hub
+            Orbital Circular Economy Hub
           </Animated.Text>
           
           {/* Version with fade */}
